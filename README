@@ -1,3 +1,7 @@
+This is a basic stable Openwrt(LEDE) version for Phicomm K3.
+Only add wireless firmware and screen driver.
+
+
 This is the buildsystem for the LEDE Linux distribution.
 
 Please use "make menuconfig" to choose your preferred
