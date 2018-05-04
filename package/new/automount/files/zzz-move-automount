@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sleep 15
+mv /etc/10-mount /etc/hotplug.d/block/10-mount
